@@ -1,29 +1,18 @@
 
 <!--h1 without bottom border-->
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3500&pause=200&center=true&width=800&height=90&lines=Hola%2C+%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E;Soy+Kevin+Ramos!;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3500&pause=200&center=true&repeat=false&width=1000&height=100&lines=Bienvenidos+a+mi+perfil!" alt="Typing SVG" /></a>
   
 </h1>
 
 
+<br/>
 
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Los errores hacen parte del crecimiento</h2></summary>
-  </ul>
-</div>
-
+<h2>Sobre Mi</h2>
 <p><img align="right" width="230" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-<!--Intro start-->
-
 <br/>
 <br/>
-
 
 - 📚 Estudio Ingeniería de Sistemas en la Universidad Nacional de Colombia
 - 💻 Estoy trabajando en mis habilidades como programador Full Stack
