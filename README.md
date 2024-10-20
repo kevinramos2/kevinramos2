@@ -35,12 +35,6 @@
 <br/>
 <!--Intro end-->
 
-
-
-
-
-          
-
 ## **Estadísticas**
 
 <p align="center">
