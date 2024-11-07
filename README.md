@@ -14,7 +14,7 @@
 - 💻 Estoy trabajando en mis habilidades como programador Full Stack
 - 🚩 Tengo interés en la creación de páginas web, desarrollo de software y el manejo de datos
 - 🌟 Lenguajes con los que más he trabajado: Python, Java, C
-- 💖 En una relación complicada con las Estructuras de Datos
+- 💖 En una relación complicada con las Estructuras de Datos (Grafos)
 
 <br/>
 <br/>
