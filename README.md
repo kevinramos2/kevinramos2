@@ -11,6 +11,7 @@
 <br/>
 
 - 📚 Estudio Ingeniería de Sistemas en la Universidad Nacional de Colombia
+
 - 💻 Estoy trabajando en mis habilidades como programador Full Stack
 - 🚩 Tengo interés en la creación de páginas web, desarrollo de software y el manejo de datos
 - 🌟 Lenguajes con los que más he trabajado: Python, Java, C
